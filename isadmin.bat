@@ -1,3 +1,4 @@
+REM this batch allow you to check if your current session has admin previleges.
 @echo off
 
 NET SESSION >nul 2>&1
